@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Different Notifications</string>
+    <string name="test_notification">Test Send Notification</string>
+</resources>
